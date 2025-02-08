@@ -21,7 +21,7 @@ body {
 }
 
 .container{
-  background: beige;
   min-height: 100vh;
   padding: 10px;
+  margin: auto;
 }
